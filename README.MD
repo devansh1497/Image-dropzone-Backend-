@@ -1,9 +1,9 @@
 ==================================================================
-Author - Devansh Singh
+# Author - Devansh Singh
 
 ############################################################################
-THIS IS ONLY THE BACKEND CODE. THE UI CODE CAN BE FOUND HERE:-
-
+# THIS IS ONLY THE BACKEND CODE. THE UI CODE CAN BE FOUND HERE:-
+https://github.com/devansh1497/Image-dropzone-UI-/tree/main/src
 #############################################################################
 
 This is a Spring Boot project which accepts a JPG/PNG/GIF from each user/client.
