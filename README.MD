@@ -1,10 +1,13 @@
 ==================================================================
 # Author - Devansh Singh
 
-############################################################################
-# THIS IS ONLY THE BACKEND CODE. THE UI CODE CAN BE FOUND HERE:-
+# This is only the backend code. The UI code can be found here:
 https://github.com/devansh1497/Image-dropzone-UI-/tree/main/src
-#############################################################################
+
+#######################################################################################################################
+THIS IS ONLY THE BACKEND CODE. THE UI CODE CAN BE FOUND HERE:-
+
+#######################################################################################################################
 
 This is a Spring Boot project which accepts a JPG/PNG/GIF from each user/client.
 and uploads this image to the Amazon S3 bucket.
